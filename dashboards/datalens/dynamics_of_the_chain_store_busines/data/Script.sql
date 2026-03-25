@@ -1,5 +1,6 @@
 --Сырые данные хранятся в базе default
 --Из csv файлов были загружены две таблицы: default.district и default.orders (все csv файлы лежат вместе с sql-скриптом в data)
+--При импорте из csv файла нужно использовать: Encoding[cp1251] и Column delimiter[;] 
 
 
 --Создание роли для BI-системы

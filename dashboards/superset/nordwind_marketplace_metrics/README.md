@@ -1,8 +1,8 @@
 ## Дашборд, демонстрирующий основные метрики маркетплейса "Nordwind"
-* Sales: динамика количества заказов, динамика выручки, динамика чека
-* Sellers Cohorts
-* Sellers Retention
-* Events & Funnel
+* Sales: Orders, Active Customers, GMV, AOV по датам создания и выкупа заказа
+* Sellers Cohorts: Когорты по дате выкупа
+* Sellers Retention: Retention по дате выкупа
+* Events & Funnel: Событийная аналитика на данных декабря 2019 года (DAU,DAC, Conversion Funnel, ARPU, ARPPU)
  
  ## Скриншоты дашборда
  ![sales_date_created_metrics.png](https://github.com/neonobot/portfolio/blob/main/dashboards/superset/nordwind_marketplace_metrics/sales_date_created_metrics.png)
